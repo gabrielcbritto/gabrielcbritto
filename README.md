@@ -1,4 +1,4 @@
-Eu sou Gabriel, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Gabriel Campos, moro no Rio de Janeiro, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" alt=LOGOHTML>
