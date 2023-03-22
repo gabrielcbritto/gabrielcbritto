@@ -1,6 +1,6 @@
 Sobre mim:
 
-Eu sou Gabriel Campos, moro no Rio de Janeiro, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Gabriel Campos, moro no Rio de Janeiro, sou um programador Front End.
 <br>
 <br>
 Redes Sociais:
