@@ -4,7 +4,7 @@ Eu sou Gabriel Campos, moro no Rio de Janeiro, sou um programador Front End, atu
 <br>
 <br>
 Redes Sociais:
-<img href="https://www.instagram.com/x.gbrl/" src="!https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=LOGOIG>
+<img href="https://www.instagram.com/x.gbrl/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=LOGOIG>
 <img href="https://www.linkedin.com/in/gabriel-campos-de-brito/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  <br>
 <br>   
