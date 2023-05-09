@@ -1,6 +1,10 @@
 Sobre mim:
 
-Eu sou Gabriel Campos, moro no Rio de Janeiro, sou um programador Front End.
+Sou um desenvolvedor Front-end.
+Iniciei por HTML, CSS e JavaScript e
+atualmente estudo Node e React ao
+passo que utilizo e me aprofundo nas
+tecnologias anteriores.
 <br>
 <br>
 Redes Sociais:
