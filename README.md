@@ -1,8 +1,8 @@
 Sobre mim:
 
-Sou um desenvolvedor Front-end.
+Sou um desenvolvedor Full Stack
 Iniciei por HTML, CSS e JavaScript e
-atualmente estudo Node e React ao
+atualmente estudo Node, React, MongoDB, Docker.. ao
 passo que utilizo e me aprofundo nas
 tecnologias anteriores.
 <br>
